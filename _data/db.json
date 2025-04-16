@@ -1,0 +1,36 @@
+{
+    "blog": [
+      {
+        "id": 1,
+        "title": "My first blog",
+        "body": "I am glad i am getting the chance to write my own database"
+      },
+      {
+        "id": 2,
+        "title": "My second blog",
+        "body": "Yes! Times and Seasons "
+      },
+      {
+        "id": 3,
+        "title": "My third blog",
+        "body": "Jesus Christ is Lord"
+      },
+      {
+        "id": 4,
+        "title": "My forth blog",
+        "body": "I am a lady helped by God"
+      },
+      {
+        "id": 5,
+        "title": "My fifth blog",
+        "body": "Grace found me"
+      },
+  
+      {
+        "id": 6,
+        "title": "My sixth blog",
+        "body": "Grace found me"
+      }
+    ]
+  }
+  
